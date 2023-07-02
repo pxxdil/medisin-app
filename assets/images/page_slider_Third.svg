@@ -1,0 +1,13 @@
+<svg id="page_slider_Third" xmlns="http://www.w3.org/2000/svg" width="40" height="16" viewBox="0 0 40 16">
+  <g id="Inactive">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="3" cy="3" r="3" transform="translate(12 5)" fill="#d6e4ff"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="3" cy="3" r="3" transform="translate(0 5)" fill="#d6e4ff"/>
+  </g>
+  <g id="Active">
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(24)" fill="none" stroke="#6690ff" stroke-width="1">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="5" cy="5" r="5" transform="translate(27 3)" fill="#6690ff"/>
+  </g>
+</svg>
